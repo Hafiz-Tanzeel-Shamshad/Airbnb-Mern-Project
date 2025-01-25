@@ -72,7 +72,7 @@ Follow these steps to run the project locally:
 3. Commit your changes (git commit -m 'Add new feature').
 4. Push to the branch (git push origin feature-branch).
 5. Open a Pull Request.
-6. 
+
 ## 🐛 Issues
 
 If you encounter any issues, please report them in the GitHub Issues section.
