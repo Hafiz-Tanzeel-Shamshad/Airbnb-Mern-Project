@@ -33,7 +33,7 @@ const User = require("./models/user.js");
 // let MONGO_URL = "mongodb://127.0.0.1:27017/wanderlust";
 let MONGO_URL = process.env.ATLASDB_URI;
 async function main(){
-    mongoose.connect(process.env.MONGODB_URI, {
+    mongoose.connect(MONGO_URL, {
         useNewUrlParser: true,
         useUnifiedTopology: true,
         ssl: true,
