@@ -80,10 +80,8 @@ If you encounter any issues, please report them in the GitHub Issues section.
 ## 📞 Contact
 
 For any inquiries, feel free to reach out via:
-
-* GitHub: Hafiz Tanzeel
-* Email: hafiztanzeel.pk@gmail.com
 * Hafiz Tanzeel - [LinkedIn](https://www.linkedin.com/in/tanzeel-shamshad-8680a8309/)
+* Email: hafiztanzeel.pk@gmail.com
 
 ## 📜 License
 This project is licensed under the MIT License.
