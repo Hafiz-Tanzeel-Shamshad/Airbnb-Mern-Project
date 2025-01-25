@@ -33,7 +33,13 @@ const User = require("./models/user.js");
 // let MONGO_URL = "mongodb://127.0.0.1:27017/wanderlust";
 let MONGO_URL = process.env.ATLASDB_URI;
 async function main(){
-    await mongoose.connect(MONGO_URL);
+    mongoose.connect(process.env.MONGODB_URI, {
+        useNewUrlParser: true,
+        useUnifiedTopology: true,
+        ssl: true,
+        tlsInsecure: false,  // Ensure secure TLS connection
+        serverSelectionTimeoutMS: 5000
+      });
 }
 
 main().then((res)=>{
