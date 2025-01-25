@@ -17,7 +17,6 @@ This project is a full-stack web application built using the MERN (MongoDB, Expr
 ## 🛠️ Technologies Used  
 
 
-
 ### Frontend  
 - ![EJS](https://img.shields.io/badge/EJS-Embedded%20JavaScript-blue)  
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-purple)  
