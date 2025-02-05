@@ -36,7 +36,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository:**  
    ```bash  
-   git clone https://github.com/your-username/mern-ejs-project.git  
+   git clone https://github.com/Hafiz-Tanzeel-Shamshad/Airbnb-Mern-Project.git
    cd mern-ejs-project
 2. **Install dependencies**
    ```bash  
@@ -72,9 +72,6 @@ Follow these steps to run the project locally:
 4. Push to the branch (git push origin feature-branch).
 5. Open a Pull Request.
 
-## 🐛 Issues
-
-If you encounter any issues, please report them in the GitHub Issues section.
 
 ## 📞 Contact
 
