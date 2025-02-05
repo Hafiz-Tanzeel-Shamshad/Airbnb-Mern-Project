@@ -1,27 +1,6 @@
 # MERN Stack Project with EJS  
 
 This project is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack with **EJS (Embedded JavaScript)** as the templating engine for server-side rendering. The application provides a dynamic and responsive user interface with CRUD functionality.  
-# Project Title
-
-## Overview
-Briefly describe your project here.
-
-## Images
-
-| Image | Description |
-|-------|------------|
-| ![Image 1](image1.png) | Description of the first image. |
-| ![Image 2](image2.png) | Description of the second image. |
-| ![Image 3](image3.png) | Description of the third image. |
-
-## Installation
-Provide installation instructions if necessary.
-
-## Usage
-Explain how to use the project.
-
-## License
-Mention the license details if applicable.
 
 ## 🚀 Features  
 
