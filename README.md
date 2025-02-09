@@ -1,6 +1,4 @@
-<h1 align="center"> 🌍Airbnb Inspired Rental Booking Applictaion (MERN + EJS)
-</h1>
-
+<h1 align="center"> 🌍Airbnb Booking Web Applictaion (MERN + EJS)🌍 </h1>
 
 
  ## 🏡 Overview
