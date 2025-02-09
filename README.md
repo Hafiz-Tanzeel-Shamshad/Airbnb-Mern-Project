@@ -1,4 +1,4 @@
-<h1 align="center"> 🌍Airbnb Inspired Rental Booking System (MERN Stack + EJS)🌍
+<h1 align="center"> 🌍Airbnb Inspired Rental Booking System (MERN Stack + EJS)
 </h1>
 
 
