@@ -99,7 +99,7 @@ Contributions are welcome! If you'd like to improve this project, feel free to f
 ## 📞 Contact
 
 For any inquiries, feel free to reach out via:
-- **Hafiz Tanzeel** - [LinkedIn](https://www.linkedin.com/in/tanzeel-shamshad-8680a8309/)
+- **Hafiz Tanzeel** - [LinkedIn](https://www.linkedin.com/in/hafiz-tanzeel-shamshad-8680a8309/)
 - **Email**: [hafiztanzeel.pk@gmail.com](mailto:hafiztanzeel.pk@gmail.com)
 
 ---
