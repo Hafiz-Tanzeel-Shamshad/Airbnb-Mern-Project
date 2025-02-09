@@ -1,5 +1,9 @@
-# 🏡 Full-Stack Airbnb-Style Rental Booking Web App (MERN + EJS)
+<h1 align="center">  🌍 Airbnb-Inspired Rental Booking System (MERN Stack + EJS)  🌍
+</h1>
 
+
+
+ ## 🏡 Overview
 This project is a **full-stack rental booking web application** inspired by **Airbnb**, built using the **MERN** stack (**MongoDB, Express.js, React.js, Node.js**) with **EJS** as the templating engine for server-side rendering. It provides a seamless experience for **browsing, listing, and managing rental properties** with robust **authentication, CRUD operations, and a responsive design**.
 
 ---
