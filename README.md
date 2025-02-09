@@ -1,6 +1,6 @@
 # Full-Stack Airbnb Website Built with MERN & EJS
 
-This project is a full-stack web application built using the **MERN (MongoDB, Express.js, React.js, Node.js) stack**, with **EJS (Embedded JavaScript)** as the templating engine for server-side rendering. The application provides a dynamic and responsive user interface with CRUD functionality.
+This project is full-stack rental booking web application inspired by Airbnb, developed using the MERN stack (MongoDB, Express.js, React.js, Node.js) with EJS (Embedded JavaScript) for server-side rendering. This platform allows users to browse, list, and manage rental properties with a seamless authentication system, CRUD operations, and a fully responsive design.
 
 ---
 
