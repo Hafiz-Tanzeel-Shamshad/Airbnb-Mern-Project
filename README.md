@@ -1,24 +1,24 @@
-# Full-Stack Airbnb Website Built with MERN & EJS
+# 🏡 Full-Stack Airbnb-Style Rental Booking Web App (MERN + EJS)
 
-This project is full-stack rental booking web application inspired by Airbnb, developed using the MERN stack (MongoDB, Express.js, React.js, Node.js) with EJS (Embedded JavaScript) for server-side rendering. This platform allows users to browse, list, and manage rental properties with a seamless authentication system, CRUD operations, and a fully responsive design.
-
----
-
-## 🚀 Features
-
-- **User Authentication**: Secure login and registration system using Passport.js with session-based authentication.
-- **CRUD Operations**: Manage data with Create, Read, Update, and Delete functionality.
-- **EJS Templating**: Dynamic page rendering using EJS for better SEO and performance.
-- **MongoDB Database**: Data storage and retrieval using MongoDB with Mongoose.
-- **Express.js Backend**: RESTful API endpoints for efficient data handling.
-- **Bootstrap Integration**: Responsive and mobile-friendly UI with Bootstrap.
-- **Session Management**: Secure user sessions with cookies.
-- **Error Handling**: Centralized error handling for improved debugging.
-- **Deployment Ready**: Easily deployable on Heroku or Vercel.
+This project is a **full-stack rental booking web application** inspired by **Airbnb**, built using the **MERN** stack (**MongoDB, Express.js, React.js, Node.js**) with **EJS** as the templating engine for server-side rendering. It provides a seamless experience for **browsing, listing, and managing rental properties** with robust **authentication, CRUD operations, and a responsive design**.
 
 ---
 
-## 🛠️ Technologies Used
+## ✨ Key Features  
+
+ ✅ **User Authentication:** Secure login & registration with Passport.js  
+ ✅ **CRUD Operations:** Add, update, and delete rental listings  
+ ✅ **EJS Templating:** SEO-friendly dynamic page rendering  
+ ✅ **MongoDB Database**: Data storage and retrieval using MongoDB with Mongoose.  
+ ✅ **Express.js Backend**: RESTful API endpoints for efficient data handling. <br/>
+ ✅ **Bootstrap UI:** Clean, responsive, and mobile-friendly design.  
+ ✅ **Session Management:** Secure user sessions with cookies.  
+ ✅ **Error Handling:** Centralized error handling for better debugging.  
+ ✅ **Deployment Ready:** Easily deployable on **Heroku or Vercel**  
+
+---
+
+## 🏗️ Tech Stack
 
 ### Frontend
 - ![EJS](https://img.shields.io/badge/EJS-Embedded%20JavaScript-blue)
